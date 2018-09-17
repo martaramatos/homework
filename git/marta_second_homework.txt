@@ -3,3 +3,6 @@ this is my homework, just adding some food i ate today:
  - bread
  - rice
  - yogurt
+ - cheese
+ - spinach
+ - carrot
