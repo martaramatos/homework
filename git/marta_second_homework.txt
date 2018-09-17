@@ -1,0 +1,5 @@
+this is my homework, just adding some food i ate today:
+ - tomatoes
+ - bread
+ - rice
+ - yogurt
